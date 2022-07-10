@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 702783251aed2fe47a554ca2c15202f8, type: 3}
   m_Name: SocietyInventory
   m_EditorClassIdentifier: 
-  Wood: 0
-  Stone: 0
-  Water: 0
-  RawMeat: 0
+  Wood: 18
+  Stone: 10
+  Water: 15
+  RawMeat: 2
   CookedMeat: 0
