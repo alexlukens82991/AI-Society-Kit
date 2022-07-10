@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class SocietyStatus : Singleton<SocietyStatus>
 {
-    [SerializeField] private SocietyNeedsObject SocietyNeeds;
-    [SerializeField] private SocietyInventory SocietyInventory;
+    public SocietyNeedsObject SocietyNeeds;
+    public SocietyInventory SocietyInventory;
 }
